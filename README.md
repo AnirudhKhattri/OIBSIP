@@ -1,2 +1,2 @@
 # OIBSIP
-Internship Projects
+Oasis Infobyte Internship Projects
